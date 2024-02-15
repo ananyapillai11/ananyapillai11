@@ -3,7 +3,7 @@
 
 - ❤ I’m currently working on **myself**
 
-- 🌱 I’m currently learning **Python,AWS cloud practitioner,CEH**
+- 🌱 I’m currently learning **Python and CEH**
 
 - 📫 How to reach me **ananyarpillai@gmail.com**
 
