@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm ANANYA</h1>
 <h3 align="center">Aspiring to work in the field of Cyber Security</h3>
 
-- ❤ I’m currently working on **myself**
-
 - 🌱 I’m currently learning **Python and CEH**
 
 - 📫 How to reach me **ananyarpillai@gmail.com**
@@ -10,10 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ananya-pillai-4b3390227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ananya-pillai-4b3390227/" height="30" width="40" /></a>
-
-<a href="https://twitter.com/ananyaa_pillai" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-</a>
 
 </p>
 
