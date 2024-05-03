@@ -1,6 +1,6 @@
 - <h1 align="center">Hi 👋, I'm Ananya</h1>
 <h3 align="center">An aspiring Cyber Security enthusiast</h3>
-<img align="right" alt="coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.rotoscopers.com/wp-content/uploads/2017/03/kikis-delivery-service.gif)"/>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyapillai11&label=Profile%20views&color=0e75b6&style=flat" alt="ananyapillai11" /> </p>
 
 - 💻 I’m currently working on **a Machine Learning based research paper**
