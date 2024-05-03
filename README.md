@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ANANYA</h1>
 <h3 align="center">Aspiring to work in the field of Cyber Security</h3>
 
-- 🌱 I’m currently learning **Python and CEH**
+- 🌱 I’m currently learning **Python,CEH and ML**
 
 - 📫 How to reach me **ananyarpillai@gmail.com**
 
