@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ananya</h1>
-<h3 align="center">An aspiring ML enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://www.rotoscopers.com/wp-content/uploads/2017/03/kikis-delivery-service.gif"/>
 
-
-- 🎀 I’m looking to collaborate on decent Cybersecurity & ML projects.
+- 🌟 A final-year IT student at VIT Vellore who loves exploring the limitless possibilities of technology and research.
+- 🎀 Always eager to collaborate on Cybersecurity and ML projects.
 
 - 📫 How to reach me ananyarpillai@gmail.com
 
