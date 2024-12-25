@@ -2,9 +2,10 @@
 <img align="right" alt="coding" width="400" src="https://www.rotoscopers.com/wp-content/uploads/2017/03/kikis-delivery-service.gif"/>
 
 - 🌟 A final-year IT student at VIT Vellore who loves working on research projects.
+  
 - 🎀 Always eager to collaborate on Cybersecurity and ML projects.
 
-- 📫 How to reach me ananyarpillai@gmail.com
+- 📫 How to reach me : ananyarpillai@gmail.com
 
 - 🦄 Fun fact I might be a linguaphile
 
