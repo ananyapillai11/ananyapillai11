@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananya</h1>
 <img align="right" alt="coding" width="400" src="https://www.rotoscopers.com/wp-content/uploads/2017/03/kikis-delivery-service.gif"/>
 
-- 🌟 A final-year IT student at VIT Vellore who loves working on research projects.
+- 🌟 A final-year IT student at VIT Vellore who loves working on projects .
   
 - 🎀 Always eager to collaborate on Cybersecurity and ML projects.
 
