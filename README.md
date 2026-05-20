@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 A final-year IT student at VIT Vellore who loves conducting research & working on projects .<br><br>🎀 Always eager to collaborate on AI and ML projects.<br><br>📫 How to reach me : ananyarpillai@gmail.com<br><br>🦄 Fun fact I might be a linguaphile
+🌟 Information Technology Graduate from VIT Vellore who loves conducting research & working on projects .<br><br>🎀 Always eager to collaborate on AI and ML projects.<br><br>📫 How to reach me : ananyarpillai@gmail.com<br><br>🦄 Fun fact I might be a linguaphile
 
 
 ## 🌐 Socials:
