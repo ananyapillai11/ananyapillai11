@@ -1,6 +1,17 @@
-# 💫 About Me:
-🌟 Information Technology Graduate from VIT Vellore who loves conducting research & working on projects .<br><br>🎀 Always eager to collaborate on AI and ML projects.<br><br>📫 How to reach me : ananyarpillai@gmail.com<br><br>🦄 Fun fact I might be a linguaphile
 
+# 💫 About Me
+
+👩‍💻 Software Engineer at **Enphase Energy** | Information Technology graduate from **VIT Vellore**.
+
+🧠 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and building intelligent systems.
+
+🔬 Interested in AI research, Neural Networks, Generative AI, and Agentic AI, with a focus on turning ideas into practical projects.
+
+🤝 Always eager to collaborate on AI/ML projects, contribute to open-source initiatives, and explore innovative technologies.
+
+📫 Reach me at: [ananyarpillai@gmail.com](mailto:ananyarpillai@gmail.com)
+
+🦄 Fun fact: I might be a linguaphile.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-pillai-4b3390227/) 
