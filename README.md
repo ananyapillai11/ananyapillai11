@@ -5,11 +5,11 @@
 
 🧠 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and building intelligent systems.
 
-🔬 Interested in AI research, Neural Networks, Generative AI, and Agentic AI, with a focus on turning ideas into practical projects.
+🔬 Interested in AI research, Deep Learning & Neural Networks, Generative AI, and Agentic AI, with a focus on turning ideas into practical projects.
 
 🤝 Always eager to collaborate on AI/ML projects, contribute to open-source initiatives, and explore innovative technologies.
 
-📫 Reach me at: [ananyarpillai@gmail.com](mailto:ananyarpillai@gmail.com)
+📫 Reach me at: [ananyarajeshpillai@gmail.com](mailto:ananyarajeshpillai@gmail.com)
 
 🦄 Fun fact: I might be a linguaphile.
 
